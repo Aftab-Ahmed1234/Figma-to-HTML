@@ -71,7 +71,7 @@ a.btn.light:hover{
     position: relative;
 }
 .hero-container .hero-text h1{
-    font-family: "Oleo Script Swash Caps", cursive;
+    font-family: "Oleo Script cursive", cursive;
     font-size: 60px;
     font-weight: normal;
     line-height: 100%;
